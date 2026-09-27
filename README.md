@@ -12,24 +12,24 @@ Imagens
 
 ### Tela inicial
 
-![Tela inicial do projeto](images/telainicial.jpeg)
-
+<img src="./projeto-2/projeto-2/images/telainicial.jpeg" width="300" alt="Tela inicial do projeto Stable Roll">
 
 ### Criação de tabuleiro
 
-![Durante criação de um tabuleiro](images/criatabuleiro.jpeg)
-
+<img src="./projeto-2/projeto-2/images/criatabuleiro.jpeg" width="300" alt="Tela de criação de um tabuleiro">
 
 ### Lista de tabuleiros
 
-![Lista dos tabuleiros criados](images/tabuleiros.jpeg)
-
+<img src="./projeto-2/projeto-2/images/tabuleiros.jpeg" width="300" alt="Lista de tabuleiros criados">
 
 ### Jogo
 
-![Durante o jogo](images/jogo.jpeg)
-![Vitória no jogo](images/vitoriajogo.jpeg)
-![Derrota no jogo](images/derrotajogo.jpeg)
+<img src="./projeto-2/projeto-2/images/jogo.jpeg" width="300" alt="Partida em andamento">
+
+<img src="./projeto-2/projeto-2/images/vitoriajogo.jpeg" width="300" alt="Tela após o jogador alcançar a vitória">
+
+<img src="./projeto-2/projeto-2/images/derrotajogo.jpeg" width="300" alt="Tela após o jogador perder a partida">
+
 Sobre o projeto
 
 O Stable Roll possui um sistema de criação de tabuleiros baseado em uma grade de 5 colunas por 9 linhas. Ao selecionar uma posição da grade durante a criação, o tipo daquele espaço é alterado, permitindo adicionar diferentes elementos ao cenário.
